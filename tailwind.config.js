@@ -13,6 +13,10 @@ export default {
         light: '#d0b8e0',
         white: 'hsl(0, 0%, 90%)',
       },
+      width: {
+        lg: 'var(--container-width-lg)',
+        md: 'var(--container-width-md)',
+      },
     },
   },
   plugins: [],
